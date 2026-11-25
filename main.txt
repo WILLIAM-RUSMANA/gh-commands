@@ -5,3 +5,5 @@ gh repo create gh-commands --public
 git init
 git remote add origin https://github.com/WILLIAM-RUSMANA/gh-commands
 git add .
+git commit -m "main"
+git push -u origin
